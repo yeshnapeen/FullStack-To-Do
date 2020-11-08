@@ -1,0 +1,12 @@
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csprojAssemblyReference.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
